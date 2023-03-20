@@ -12,3 +12,5 @@ streamlit.text('🥑🥗Avacodo Toste')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇') 
 
+import pandas
+
